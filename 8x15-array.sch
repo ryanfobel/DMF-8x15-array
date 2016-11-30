@@ -29,7 +29,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:wheelerlab
-LIBS:120-channel-array-cache
 EELAYER 25 0
 EELAYER END
 $Descr User 11000 8500

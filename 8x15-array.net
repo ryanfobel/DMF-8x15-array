@@ -1,15 +1,15 @@
 (export (version D)
   (design
-    (source C:/Users/ryan/Documents/dev/kicad/120-channel-array/120-channel-array.sch)
-    (date "11/2/2016 12:50:28 PM")
-    (tool "Eeschema 4.0.1-stable")
+    (source C:/Users/all/Dropbox/8x15-array/8x15-array.sch)
+    (date "2016-11-30 2:07:19 AM")
+    (tool "Eeschema 4.0.4-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
-        (title "minibox v2")
+        (title 8x15-array)
         (company "Ryan Fobel")
-        (rev 1)
-        (date "24 sep 2015")
-        (source 120-channel-array.sch)
+        (rev v0.1)
+        (date 2016-11-02)
+        (source 8x15-array.sch)
         (comment (number 1) (value ""))
         (comment (number 2) (value ""))
         (comment (number 3) (value ""))
@@ -1457,7 +1457,7 @@
       (tstamp 581A7F5C)))
   (libparts
     (libpart (lib conn) (part CONN_01X01)
-      (description "Connector 01x01")
+      (description "Connector, single row, 01x01")
       (footprints
         (fp Pin_Header_Straight_1X01)
         (fp Pin_Header_Angled_1X01)
